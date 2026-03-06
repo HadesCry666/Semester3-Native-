@@ -1,3 +1,5 @@
+![WhatsApp Image 2026-03-06 at 16 38 05](https://github.com/user-attachments/assets/401a6b7f-01e2-4499-a46d-b62e6a3f22cc)
+
 # 🏡 Digital Village Web Application
 
 Aplikasi **Digital Village** merupakan sistem berbasis **web native** yang dirancang untuk membantu digitalisasi informasi dan layanan desa agar dapat diakses dengan mudah oleh masyarakat.
@@ -135,4 +137,4 @@ Tujuan utama dari pengembangan aplikasi ini:
 - Membangun sistem informasi desa berbasis website
 
 ---
-![WhatsApp Image 2026-03-06 at 16 38 05](https://github.com/user-attachments/assets/401a6b7f-01e2-4499-a46d-b62e6a3f22cc)
+
